@@ -1,0 +1,14 @@
+===========================
+DONE:
+===========================
+Egy üres String esetén visszatérünk 0-val:
+    "" -> 0
+Egy szám esetén önmagával fog visszatérni:
+    "1" -> 1
+    "2" -> 2
+Ha két szám vesszővel van elválasztva akkor az összegüket kell vissza adni:
+    "2,3" -> 5
+    "12,30" -> 42
+===========================
+TO BE DONE:
+===========================
